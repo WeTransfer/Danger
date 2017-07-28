@@ -26,4 +26,4 @@ Reach out on Twitter [@twannl](https://twitter.com/twannl) or create an issue in
 
 ## License
 
-Moya is released under an MIT license. See the [License](License) file for more information.
+WeTransfer's Dangerfile is released under an MIT license. See the [License](License) file for more information.
