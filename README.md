@@ -1,3 +1,5 @@
+This project is no longer maintained and replace by [WeTransfer-iOS-CI](https://github.com/WeTransfer/WeTransfer-iOS-CI/).
+
 # Danger
 WeTransfer Danger file. Used for checking PRs on iOS projects. This can be used together with [Danger](https://github.com/danger/danger). More info can be found here: [http://danger.systems](http://danger.systems/).
 
